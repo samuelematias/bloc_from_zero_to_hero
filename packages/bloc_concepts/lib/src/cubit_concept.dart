@@ -10,16 +10,18 @@ class CounterCubit extends Cubit<int> {
 Future<void> main(List<String> args) async {
   final cubit = CounterCubit();
 
-  final streamSubscription = cubit.listen(
-      print); //! this subscribes to the cubit state stream and prints the state values emitted by it
+  //! this subscribes to the cubit state stream
+  // and prints the state values emitted by it
+  // ignore: avoid_print
+  final streamSubscription = cubit.listen(print);
 
   cubit.increment();
   cubit.increment();
   cubit.increment();
   cubit.increment();
 
-  await Future.delayed(Duration
-      .zero); //! we use this to not cancel the subscription immediately down here
+//! we use this to not cancel the subscription immediately down here
+  await Future<int>.delayed(Duration.zero);
 
   await streamSubscription.cancel();
   await cubit.close();

@@ -22,6 +22,7 @@ class CounterBloc extends Bloc<CounterEvent, int> {
 Future<void> main(List<String> args) async {
   final bloc = CounterBloc();
 
+  // ignore: avoid_print
   final streamSubscription = bloc.listen(print);
 
   bloc.add(CounterEvent.increment);
@@ -32,8 +33,8 @@ Future<void> main(List<String> args) async {
   bloc.add(CounterEvent.decrement);
   bloc.add(CounterEvent.decrement);
 
-  await Future.delayed(Duration
-      .zero); //! we use this to not cancel the subscription immediately down here
+//! we use this to not cancel the subscription immediately down here
+  await Future<int>.delayed(Duration.zero);
 
   await streamSubscription.cancel();
   await bloc.close();
