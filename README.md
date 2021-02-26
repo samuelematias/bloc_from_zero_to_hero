@@ -22,7 +22,10 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 ## Lesson/Branch 🔖
 
-- [#2 - BLoC Core Concepts - Streams, Blocs, Cubits | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=toPtm6eyyeE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=3&t=437s) / [lesson-2-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-2-bloc-concepts)
+- [#2 - BLoC Core Concepts - Streams, Blocs, Cubits | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=toPtm6eyyeE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=3) / [lesson-2-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-2-bloc-concepts)
+
+- [#3 - Flutter BLoC Concepts - BlocProvider, BlocBuilder, BlocListener | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=NqUx-NfTts4&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=4) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-3-flutter-bloc-concepts)
+
 ## Tech Stack 👩🏾‍💻
 
 - [Dart](https://dart.dev/)
