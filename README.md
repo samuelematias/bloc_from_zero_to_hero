@@ -1,16 +1,40 @@
-# bloc_from_zero_to_hero
+<!-- header section -->
+<p align="center">
+  <span><b>BLoC - from Zero to Hero 🦸🏾‍♀️🦸🏾‍♂️🚀</b></span><br/>
+</p>
+<!-- header section END -->
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+<!-- show case/gif section -->
+<p align="center">
+    <img alt="App" height="620" src="https://i.imgur.com/lPBwy9d.png" />
+</p>
+<!-- show case/gif section END -->
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+<!-- about app and course section -->
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## About this app 🗣
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to Hero](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o).
+
+## Lesson/Branch 🔖
+
+- [#2 - BLoC Core Concepts - Streams, Blocs, Cubits | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=toPtm6eyyeE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=3&t=437s) / [lesson-2-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-2-bloc-concepts)
+## Tech Stack 👩🏾‍💻
+
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+
+## Plugins 📟
+
+- [bloc](https://pub.dev/packages/bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [bloc_test](https://pub.dev/packages/bloc_test)
+- [equatable](https://pub.dev/packages/equatable)
+- [hydrated_bloc](https://pub.dev/packages/hydrated_bloc)
+- [connectivity_plus](https://pub.dev/packages/connectivity_plus)
+
+<!-- about app and course section END -->
