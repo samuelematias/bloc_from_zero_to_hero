@@ -26,6 +26,40 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#3 - Flutter BLoC Concepts - BlocProvider, BlocBuilder, BlocListener | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=NqUx-NfTts4&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=4) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-3-flutter-bloc-concepts)
 
+
+## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
+
+### BloC Architecture Suggestion 
+
+```bash
+.
+├── lib/
+│   ├── business_login/
+│   │    ├── blocs/
+│   │    └── cubits/
+│   ├── data/
+│   │   ├── data_providers/
+│   │   ├── models/
+│   │   └── repositories/
+│   ├── presentation/
+│   │   ├── animations/
+│   │   ├── pages/
+│   │   └── widgets/
+└── main.dart
+```
+
+### BloC Architecture Suggestion Workflow **START**
+
+<p align="center">
+    <img alt="bloc-arch-start" height="620" src="https://i.imgur.com/scla6SF.png" />
+</p>
+
+### BloC Architecture Suggestion Workflow **END**
+
+<p align="center">
+    <img alt="bloc-arch-start" height="620" src="https://i.imgur.com/HW6tJGO.png" />
+</p>
+
 ## Tech Stack 👩🏾‍💻
 
 - [Dart](https://dart.dev/)
