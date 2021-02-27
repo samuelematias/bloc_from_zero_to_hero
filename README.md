@@ -26,6 +26,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#3 - Flutter BLoC Concepts - BlocProvider, BlocBuilder, BlocListener | BLoC - from Zero to Hero](https://www.youtube.com/watch?v=NqUx-NfTts4&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=4) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-3-flutter-bloc-concepts)
 
+- [#4 - BLoC Architecture - Presentation, Business Logic & Data Layer + Model, Repository, DataProvider](https://www.youtube.com/watch?v=kLDfhamoqe0&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=5) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-4-bLoc-architecture)
+
 
 ## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
 
