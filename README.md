@@ -140,6 +140,91 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="bloc-listener-pros-cons" height="620" src="https://i.imgur.com/BKJdj9k.png" />
 </p>
 
+### BuildContext: 1st Wrong assumption
+
+<p align="center">
+    <img alt="build-context-1" height="620" src="https://i.imgur.com/UAwI3e2.png" />
+</p>
+
+### BuildContext: 2st Wrong assumption
+
+<p align="center">
+    <img alt="build-context-2" height="620" src="https://i.imgur.com/W0JwbsX.png" />
+</p>
+
+### BuildContext: 3st Wrong assumption
+
+<p align="center">
+    <img alt="build-context-3" height="620" src="https://i.imgur.com/uV9cuw0.png" />
+</p>
+
+### BuildContext: Navigator.of...
+
+<p align="center">
+    <img alt="build-context-4" height="620" src="https://i.imgur.com/9YVKH4h.png" />
+</p>
+
+### BuildContext: Navigator - Search for Closet
+
+<p align="center">
+    <img alt="build-context-5" height="620" src="https://i.imgur.com/zP1Bkh6.png" />
+</p>
+
+### BuildContext: Navigator - Starting from this Exact BuildContext
+
+<p align="center">
+    <img alt="build-context-6" height="620" src="https://i.imgur.com/XpP13BT.png" />
+</p>
+
+### BuildContext: Relationship
+
+<p align="center">
+    <img alt="build-context-7" height="620" src="https://i.imgur.com/PVH8MI2.png" />
+</p>
+
+### BuildContext: Widget Tree
+
+<p align="center">
+    <img alt="build-context-8" height="620" src="https://i.imgur.com/iT3QIU3.png" />
+</p>
+
+### BuildContext: BlocProvider.of...
+
+<p align="center">
+    <img alt="build-context-9" height="620" src="https://i.imgur.com/cvVKT5H.png" />
+</p>
+
+### BuildContext: BlocProvider Globally OK
+
+<p align="center">
+    <img alt="build-context-10" height="620" src="https://i.imgur.com/69xh2bq.png" />
+</p>
+
+### BuildContext: BlocProvider Globally NOK
+
+<p align="center">
+    <img alt="build-context-11" height="620" src="https://i.imgur.com/zQmmkYv.png" />
+</p>
+
+### BuildContext: Example 1
+
+<p align="center">
+    <img alt="build-context-12" height="620" src="https://i.imgur.com/oi37azN.png" />
+</p>
+
+### BuildContext: Example 2
+
+<p align="center">
+    <img alt="build-context-13" height="620" src="https://i.imgur.com/CIa2lhi.png" />
+</p>
+
+### BuildContext: Example 3
+
+<p align="center">
+    <img alt="build-context-14" height="620" src="https://i.imgur.com/Yvo9Yr3.png" />
+</p>
+
+
 ## Tech Stack 👩🏾‍💻
 
 - [Dart](https://dart.dev/)
