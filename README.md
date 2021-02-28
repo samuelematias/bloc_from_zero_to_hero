@@ -34,6 +34,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#7 - BLoC to BLoC Communication - StreamSubscription, BlocListener & More Architecture Tips](https://www.youtube.com/watch?v=ricBLKHeubM&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=8) / [lesson-7-bloc-communication-stream-subscription](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-7-bloc-communication-stream-subscription) |  [lesson-7-bloc-communication-bloc-listener](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-7-bloc-communication-bloc-listener)
 
+- [#8 - BuildContext In-Depth Explanation - Fix BlocProvider.of() fails to find a context containing...](https://www.youtube.com/watch?v=iNgwFMm3opE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=9) / [lesson-8-build-context](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-8-build-context)
+
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
