@@ -28,7 +28,10 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#4 - BLoC Architecture - Presentation, Business Logic & Data Layer + Model, Repository, DataProvider](https://www.youtube.com/watch?v=kLDfhamoqe0&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=5) / [lesson-4-bLoc-architecture](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-4-bLoc-architecture)
 
-- [#5 - BLoC Testing - Why do you hate testing? It's actually pretty amazing!](https://www.youtube.com/watch?v=kLDfhamoqe0&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=5) / [lesson-5-bloc-testing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-5-bloc-testing)
+- [#5 - BLoC Testing - Why do you hate testing? It's actually pretty amazing!](https://www.youtube.com/watch?v=cVru6Gy4duQ&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=6) / [lesson-5-bloc-testing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-5-bloc-testing)
+
+- [#6 - BLoC Access & Navigation - Local, Route & Global Access with BlocProvider](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=7) / [lesson-6-access-navigation-anonymous-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-anonymous-routing) | [lesson-6-access-navigation-named-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-named-routing) |  [lesson-6-access-navigation-generated-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing) |  [lesson-6-access-navigation-generated-routing-bloc-global-access](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing-bloc-global-access) 
+
 
 ## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
 
@@ -60,7 +63,55 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 ### BloC Architecture Suggestion Workflow **END**
 
 <p align="center">
-    <img alt="bloc-arch-start" height="620" src="https://i.imgur.com/HW6tJGO.png" />
+    <img alt="bloc-arch-end" height="620" src="https://i.imgur.com/HW6tJGO.png" />
+</p>
+
+### Flutter Routing Options
+
+<p align="center">
+    <img alt="flutter-routing-options" height="620" src="https://i.imgur.com/yL6lapD.png" />
+</p>
+
+### Anonymous Routing
+
+<p align="center">
+    <img alt="anonymous-routing" height="620" src="https://i.imgur.com/QVAXhkx.png" />
+</p>
+
+### Named Routing 1
+
+<p align="center">
+    <img alt="named-routing-1" height="620" src="https://i.imgur.com/jkq4OIa.png" />
+</p>
+
+### Named Routing 2
+
+<p align="center">
+    <img alt="named-routing-2" height="620" src="https://i.imgur.com/W9Z979G.png" />
+</p>
+
+### Generated Routing
+
+<p align="center">
+    <img alt="generated-routing" height="620" src="https://i.imgur.com/idqQ1lU.png" />
+</p>
+
+### Generated Routing with BloC Global Access 1
+
+<p align="center">
+    <img alt="generated-routing-bloc-global-access-1" height="620" src="https://i.imgur.com/69R4Ank.png" />
+</p>
+
+### Generated Routing with BloC Global Access 2
+
+<p align="center">
+    <img alt="generated-routing-bloc-global-access-2" height="620" src="https://i.imgur.com/lVmdfa5.png" />
+</p>
+
+### Routing resume/final notes
+
+<p align="center">
+    <img alt="routing-resume-final-notes" height="620" src="https://i.imgur.com/p9MFdJb.png" />
 </p>
 
 ## Tech Stack 👩🏾‍💻
