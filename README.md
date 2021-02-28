@@ -33,7 +33,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 - [#6 - BLoC Access & Navigation - Local, Route & Global Access with BlocProvider](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=7) / [lesson-6-access-navigation-anonymous-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-anonymous-routing) | [lesson-6-access-navigation-named-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-named-routing) |  [lesson-6-access-navigation-generated-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing) |  [lesson-6-access-navigation-generated-routing-bloc-global-access](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing-bloc-global-access) 
 
 
-## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
+## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
 
