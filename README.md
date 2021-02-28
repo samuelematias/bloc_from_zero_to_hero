@@ -139,6 +139,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 <p align="center">
     <img alt="bloc-listener-pros-cons" height="620" src="https://i.imgur.com/BKJdj9k.png" />
 </p>
+
 ## Tech Stack 👩🏾‍💻
 
 - [Dart](https://dart.dev/)
