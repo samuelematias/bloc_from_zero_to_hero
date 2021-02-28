@@ -108,7 +108,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="generated-routing-bloc-global-access-2" height="620" src="https://i.imgur.com/lVmdfa5.png" />
 </p>
 
-### Routing resume/final notes
+### Routing & Navigation resume/final notes
 
 <p align="center">
     <img alt="routing-resume-final-notes" height="620" src="https://i.imgur.com/p9MFdJb.png" />
