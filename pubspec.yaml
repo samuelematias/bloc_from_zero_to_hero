@@ -13,6 +13,7 @@ dependencies:
     sdk: flutter
   flutter_bloc: ^6.1.2
   equatable: ^1.2.6
+  connectivity_plus: ^0.8.1
 
   cupertino_icons: ^1.0.0
 
