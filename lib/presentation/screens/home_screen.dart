@@ -18,6 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: widget.color,
         title: Text(widget.title),
       ),
       body: Center(
@@ -75,6 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
               children: [
                 FloatingActionButton(
                   heroTag: Text(widget.title),
+                  backgroundColor: widget.color,
                   onPressed: () {
                     BlocProvider.of<CounterCubit>(context).decrement();
                     // context.read<CounterCubit>().increment();
@@ -84,6 +86,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 FloatingActionButton(
                   heroTag: Text('${widget.title} #2'),
+                  backgroundColor: widget.color,
                   onPressed: () {
                     // BlocProvider.of<CounterCubit>(context).increment();
                     context.read<CounterCubit>().increment();
