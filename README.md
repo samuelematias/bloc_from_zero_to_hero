@@ -32,7 +32,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#6 - BLoC Access & Navigation - Local, Route & Global Access with BlocProvider](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=7) / [lesson-6-access-navigation-anonymous-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-anonymous-routing) | [lesson-6-access-navigation-named-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-named-routing) |  [lesson-6-access-navigation-generated-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing) |  [lesson-6-access-navigation-generated-routing-bloc-global-access](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing-bloc-global-access)
 
-- [#7 - BLoC to BLoC Communication - StreamSubscription, BlocListener & More Architecture Tips](https://www.youtube.com/watch?v=ricBLKHeubM&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=8) / [lesson-7-bloc-communication-stream-subscription](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-7-bloc-communication-stream-subscription)
+- [#7 - BLoC to BLoC Communication - StreamSubscription, BlocListener & More Architecture Tips](https://www.youtube.com/watch?v=ricBLKHeubM&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=8) / [lesson-7-bloc-communication-stream-subscription](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-7-bloc-communication-stream-subscription) |  [lesson-7-bloc-communication-bloc-listener](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-7-bloc-communication-bloc-listener)
 
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
@@ -127,6 +127,18 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="stream-pros-cons" height="620" src="https://i.imgur.com/cyG8cP5.png" />
 </p>
 
+
+### Why BloC Listener over StreamSubscription?
+
+<p align="center">
+    <img alt="bloc-listener-over-strem" height="620" src="https://i.imgur.com/Xn62ovG.png" />
+</p>
+
+### BloC Listener PROS/CONS
+
+<p align="center">
+    <img alt="bloc-listener-pros-cons" height="620" src="https://i.imgur.com/BKJdj9k.png" />
+</p>
 ## Tech Stack 👩🏾‍💻
 
 - [Dart](https://dart.dev/)
