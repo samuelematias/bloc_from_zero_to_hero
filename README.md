@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <span><b>BLoC - from Zero to Hero 🦸🏾‍♀️🦸🏾‍♂️🚀</b></span><br/>
+  <span><b>BLoC - from Zero to Hero 0️⃣ 🦸🏾‍♀️🦸🏾‍♂️🚀</b></span><br/>
 </p>
 <!-- header section END -->
 
@@ -28,6 +28,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#4 - BLoC Architecture - Presentation, Business Logic & Data Layer + Model, Repository, DataProvider](https://www.youtube.com/watch?v=kLDfhamoqe0&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=5) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-4-bLoc-architecture)
 
+- [#5 - BLoC Testing - Why do you hate testing? It's actually pretty amazing!](https://www.youtube.com/watch?v=kLDfhamoqe0&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=5) / [lesson-3-flutter-bloc-concepts](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-5-bloc-testing)
 
 ## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
 
