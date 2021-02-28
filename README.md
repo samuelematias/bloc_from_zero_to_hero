@@ -77,12 +77,17 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="anonymous-routing" height="620" src="https://i.imgur.com/QVAXhkx.png" />
 </p>
 
-### Named Routing
+### Named Routing 1
 
 <p align="center">
-    <img alt="named-routing" height="620" src="https://i.imgur.com/jkq4OIa.png" />
+    <img alt="named-routing-1" height="620" src="https://i.imgur.com/jkq4OIa.png" />
 </p>
 
+### Named Routing 2
+
+<p align="center">
+    <img alt="named-routing-2" height="620" src="https://i.imgur.com/W9Z979G.png" />
+</p>
 
 
 ## Tech Stack 👩🏾‍💻
