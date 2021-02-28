@@ -30,7 +30,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#5 - BLoC Testing - Why do you hate testing? It's actually pretty amazing!](https://www.youtube.com/watch?v=cVru6Gy4duQ&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=6) / [lesson-5-bloc-testing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-5-bloc-testing)
 
-- [#6 - BLoC Access & Navigation - Local, Route & Global Access with BlocProvider](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=7) / [lesson-6-access-navigation-anonymous-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-anonymous-routing) | [lesson-6-access-navigation-named-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-named-routing) 
+- [#6 - BLoC Access & Navigation - Local, Route & Global Access with BlocProvider](https://www.youtube.com/watch?v=laqnY0NjU3M&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=7) / [lesson-6-access-navigation-anonymous-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-anonymous-routing) | [lesson-6-access-navigation-named-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-named-routing) |  [lesson-6-access-navigation-generated-routing](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-6-access-navigation-generated-routing) 
 
 ## Tips and explanations 👩🏾‍🏫👨🏾‍🏫
 
@@ -89,6 +89,11 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="named-routing-2" height="620" src="https://i.imgur.com/W9Z979G.png" />
 </p>
 
+### Generated Routing
+
+<p align="center">
+    <img alt="generated-routing" height="620" src="https://i.imgur.com/idqQ1lU.png" />
+</p>
 
 ## Tech Stack 👩🏾‍💻
 
