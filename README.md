@@ -1,6 +1,6 @@
 <!-- header section -->
 <p align="center">
-  <span><b>BLoC - from Zero to Hero 0️⃣ 🦸🏾‍♀️🦸🏾‍♂️🚀</b></span><br/>
+  <span><b>BLoC - from Zero to Hero 0️⃣👉🏾🦸🏾‍♀️🦸🏾‍♂️🚀</b></span><br/>
 </p>
 <!-- header section END -->
 
