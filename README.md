@@ -38,6 +38,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#9 - BLoC 6.1.0 Update - Important Changes, context.watch, context.select & context.read](https://www.youtube.com/watch?v=TNVxDuSJ00I&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=10) / [lesson-9-bloc-update](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-9-bloc-update)
 
+- [#10 - Bloc State Not Updating - Comparing 2 objects in Dart, Equatable Package, How to Fix Issue](https://www.youtube.com/watch?v=wCYNFCKeLIY&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=11) / [lesson-10-bloc-state-not-updating](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-10-bloc-state-not-updating)
+
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
@@ -282,6 +284,23 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="bloc-update-9" height="620" src="https://i.imgur.com/Unn0W57.png" />
 </p>
 
+### Never mutate a existing state
+
+<p align="center">
+    <img alt="never-mutate" height="620" src="https://i.imgur.com/nLGhGB7.png" />
+</p>
+
+### BloC won't consecutively emit 2 identical states
+
+<p align="center">
+    <img alt="bloc-identical-states" height="620" src="https://i.imgur.com/dEhXjwW.png" />
+</p>
+
+### Using Equatable, right way
+
+<p align="center">
+    <img alt="equatable-right-way" height="620" src="https://i.imgur.com/DCDA1I5.png" />
+</p>
 
 ## Tech Stack 👩🏾‍💻
 
