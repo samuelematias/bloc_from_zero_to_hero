@@ -127,6 +127,17 @@ class _HomeScreenState extends State<HomeScreen> {
               },
             ),
             const SizedBox(height: 24),
+            Builder(
+              builder: (context) {
+                final counterValue = context
+                    .select((CounterCubit cubit) => cubit.state.counterValue);
+                return Text(
+                  'Counter: $counterValue',
+                  style: Theme.of(context).textTheme.headline6,
+                );
+              },
+            ),
+            const SizedBox(height: 24),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
