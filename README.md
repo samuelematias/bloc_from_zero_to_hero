@@ -36,6 +36,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#8 - BuildContext In-Depth Explanation - Fix BlocProvider.of() fails to find a context containing...](https://www.youtube.com/watch?v=iNgwFMm3opE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=9) / [lesson-8-build-context](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-8-build-context)
 
+- [#9 - BLoC 6.1.0 Update - Important Changes, context.watch, context.select & context.read](https://www.youtube.com/watch?v=TNVxDuSJ00I&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=10) / [lesson-9-bloc-update](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-9-bloc-update)
+
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
@@ -224,6 +226,60 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 <p align="center">
     <img alt="build-context-14" height="620" src="https://i.imgur.com/Yvo9Yr3.png" />
+</p>
+
+### BloC 6.1.0 Updates: Old way with MultiBlocBuilder
+
+<p align="center">
+    <img alt="bloc-update-1" height="620" src="https://i.imgur.com/hIHOxTt.png" />
+</p>
+
+### BloC 6.1.0 Updates: context.watch substitute for MultiBlocBuilder
+
+<p align="center">
+    <img alt="bloc-update-2" height="620" src="https://i.imgur.com/EPO7P9e.png" />
+</p>
+
+### BloC 6.1.0 Updates: How use context.watch
+
+<p align="center">
+    <img alt="bloc-update-3" height="620" src="https://i.imgur.com/AUx0LwB.png" />
+</p>
+
+### BloC 6.1.0 Updates: context.select substitute for BlocBuilder for simples cases with one condicion
+
+<p align="center">
+    <img alt="bloc-update-4" height="620" src="https://i.imgur.com/tQVbyh8.png" />
+</p>
+
+### BloC 6.1.0 Updates: How use context.select
+
+<p align="center">
+    <img alt="bloc-update-5" height="620" src="https://i.imgur.com/xX5TxSx.png" />
+</p>
+
+### BloC 6.1.0 Updates:  context.bloc substitute for context.read!
+
+<p align="center">
+    <img alt="bloc-update-6" height="620" src="https://i.imgur.com/MIl5h6P.png" />
+</p>
+
+### BloC 6.1.0 Updates:  Why and What is context.read
+
+<p align="center">
+    <img alt="bloc-update-7" height="620" src="https://i.imgur.com/v8Xpbcp.png" />
+</p>
+
+### BloC 6.1.0 Updates:  context.read in a Inefficient and Efficient way
+
+<p align="center">
+    <img alt="bloc-update-8" height="620" src="https://i.imgur.com/z3K0E5N.png" />
+</p>
+
+### BloC 6.1.0 Updates:  Rebuild methods
+
+<p align="center">
+    <img alt="bloc-update-9" height="620" src="https://i.imgur.com/Unn0W57.png" />
 </p>
 
 
