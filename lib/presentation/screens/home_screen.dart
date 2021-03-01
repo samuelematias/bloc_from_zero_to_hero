@@ -145,7 +145,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   heroTag: Text(widget.title),
                   onPressed: () {
                     BlocProvider.of<CounterCubit>(context).decrement();
-                    // context.read<CounterCubit>().increment();
+                    // context.read<CounterCubit>().decrement();
                   },
                   tooltip: 'Decrement',
                   child: const Icon(Icons.remove),
