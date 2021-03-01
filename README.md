@@ -296,10 +296,10 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
     <img alt="bloc-identical-states" height="620" src="https://i.imgur.com/dEhXjwW.png" />
 </p>
 
-### Using Equatable, right way
+### Attention about Equatable
 
 <p align="center">
-    <img alt="equatable-right-way" height="620" src="https://i.imgur.com/DCDA1I5.png" />
+    <img alt="attention-equatable" height="620" src="https://i.imgur.com/DCDA1I5.png" />
 </p>
 
 ## Tech Stack 👩🏾‍💻
