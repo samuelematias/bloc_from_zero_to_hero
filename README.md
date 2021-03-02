@@ -553,6 +553,7 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 - [bloc_test](https://pub.dev/packages/bloc_test)
 - [equatable](https://pub.dev/packages/equatable)
 - [hydrated_bloc](https://pub.dev/packages/hydrated_bloc)
+- [path_provider](https://pub.dev/packages/path_provider)
 - [connectivity_plus](https://pub.dev/packages/connectivity_plus)
 
 <!-- about app and course section END -->
