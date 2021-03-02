@@ -101,3 +101,9 @@ linter:
     # pedantic: disabled
     # https://dart-lang.github.io/linter/lints/prefer_int_literals.html
     prefer_int_literals: false
+
+    # A leftover from dart1, should be deprecated
+    # pedantic: disabled
+    # - https://github.com/dart-lang/linter/issues/1401
+    # http://dart-lang.github.io/linter/lints/avoid_as.html
+    avoid_as: false
