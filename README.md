@@ -40,6 +40,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#10 - Bloc State Not Updating - Comparing 2 objects in Dart, Equatable Package, How to Fix Issue](https://www.youtube.com/watch?v=wCYNFCKeLIY&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=11) / [lesson-10-bloc-state-not-updating](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-10-bloc-state-not-updating)
 
+- [#11 - Maintaining Flutter Application State with Hydrated Bloc](https://www.youtube.com/watch?v=L5QinDY7nKE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=12) / [lesson-11-maintaining-state](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-11-maintaining-state)
+
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
@@ -300,6 +302,31 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 <p align="center">
     <img alt="attention-equatable" height="620" src="https://i.imgur.com/DCDA1I5.png" />
+</p>
+
+### What is Hydrated BloC?
+
+<p align="center">
+    <img alt="hydrated-bloc-1" height="620" src="https://i.imgur.com/3PGBpzQ.png" />
+</p>
+
+### Hydrated BloC: How works
+
+<p align="center">
+    <img alt="hydrated-bloc-2" height="620" src="https://i.imgur.com/f9qeqMu.png" />
+</p>
+
+### Hydrated BloC: from/to json flow
+
+<p align="center">
+    <img alt="hydrated-bloc-3" height="620" src="https://i.imgur.com/od4vKq1.png" />
+</p>
+
+### Hydrated BloC: it's not slow
+
+<p align="center">
+    <img alt="hydrated-bloc-4" height="620" src="https://i.imgur.com/BIIeVrW.png" />
+    <img alt="hydrated-bloc-5" height="620" src="https://i.imgur.com/jfKg9xE.png" />
 </p>
 
 ## Tech Stack 👩🏾‍💻
