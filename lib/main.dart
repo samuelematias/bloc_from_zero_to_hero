@@ -7,6 +7,7 @@ import 'package:path_provider/path_provider.dart';
 import 'logic/cubit/counter_cubit.dart';
 import 'logic/cubit/internet_cubit.dart';
 import 'logic/cubit/settings_cubit.dart';
+import 'logic/utility/app_bloc_observer.dart';
 import 'presentation/router/app_router.dart';
 
 Future<void> main() async {
@@ -15,6 +16,8 @@ Future<void> main() async {
   HydratedBloc.storage = await HydratedStorage.build(
     storageDirectory: await getApplicationDocumentsDirectory(),
   );
+
+  Bloc.observer = AppBlocObserver();
 
   runApp(MyApp(
     appRouter: AppRouter(),
@@ -46,6 +49,11 @@ class MyApp extends StatelessWidget {
         ),
         BlocProvider<SettingsCubit>(
           create: (counterCubitContext) => SettingsCubit(),
+          // lazy as 'false', will create SettingsCubit
+          // right after the app is launched
+          // lazy as 'true' (default), will create SettingsCubit
+          // when it is used / called
+          lazy: false,
         ),
       ],
       child: MaterialApp(
