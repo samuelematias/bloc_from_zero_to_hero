@@ -19,6 +19,9 @@ class InternetConnected extends InternetState {
 
   @override
   List<Object> get props => [connectionType];
+
+  @override
+  String toString() => 'InternetConnected(connectionType: $connectionType)';
 }
 
 class InternetDisconnected extends InternetState {
