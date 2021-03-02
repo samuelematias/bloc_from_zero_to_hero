@@ -8,7 +8,7 @@
 
 <!-- show case/gif section -->
 <p align="center">
-    <img alt="App" height="620" src="https://i.imgur.com/lPBwy9d.png" />
+    <img alt="bloc-from-zero-to-hero-course" height="620" src="https://i.imgur.com/YOrEwBR.png" />
 </p>
 <!-- show case/gif section END -->
 
@@ -64,6 +64,138 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 │   │   └── widgets/
 └── main.dart
 ```
+### Why BloC?
+
+<p align="center">
+    <img alt="why-bloc" height="620" src="https://i.imgur.com/2kIMmg1.png" />
+</p>
+
+### BloC extends Cubit
+
+<p align="center">
+    <img alt="bloc-extends-cubit" height="620" src="https://i.imgur.com/lPBwy9d.png" />
+</p>
+
+### How Streams works
+
+<p align="center">
+    <img alt="streams-works-1" height="620" src="https://i.imgur.com/huhUQdg.png" />
+    <img alt="streams-works-2" height="620" src="https://i.imgur.com/RtLlnKy.png" />
+</p>
+
+### async*
+
+<p align="center">
+    <img alt="async" height="620" src="https://i.imgur.com/AXw8APA.png" />
+</p>
+
+### yield
+
+<p align="center">
+    <img alt="yield" height="620" src="https://i.imgur.com/AvAyTqD.png" />
+</p>
+
+### await
+
+<p align="center">
+    <img alt="await" height="620" src="https://i.imgur.com/83rdFdm.png" />
+</p>
+
+### listen
+
+<p align="center">
+    <img alt="listen" height="620" src="https://i.imgur.com/H033nRA.png" />
+</p>
+
+### App State Design
+
+<p align="center">
+    <img alt="app-state-design" height="620" src="https://i.imgur.com/do3Ubs3.png" />
+</p>
+
+### Event-State-Bloc 1
+
+<p align="center">
+    <img alt="event-state-bloc-1" height="620" src="https://i.imgur.com/uyoLSLA.png" />
+</p>
+
+### Event-State-Bloc 2
+
+<p align="center">
+    <img alt="event-state-bloc-2" height="620" src="https://i.imgur.com/qtvlk6Q.png" />
+</p>
+
+### How BloC/Cubit event/states works 1
+
+<p align="center">
+    <img alt="bloc-cubit-event-states-works-1" height="620" src="https://i.imgur.com/dNA8WOl.png" />
+</p>
+
+### How BloC/Cubit event/states works 2
+
+<p align="center">
+    <img alt="bloc-cubit-event-states-works-2" height="620" src="https://i.imgur.com/i7gsMyp.png" />
+</p>
+
+### BlocProvider
+
+<p align="center">
+    <img alt="bloc-provider" height="620" src="https://i.imgur.com/ENNDt6B.png" />
+</p>
+
+### Pure Function on BlocBuilder
+
+<p align="center">
+    <img alt="pure-func-bloc-builder" height="620" src="https://i.imgur.com/mbR1EJ9.png" />
+</p>
+
+### BlocProvider BlocBuilder (builder/buildWhen)
+
+<p align="center">
+    <img alt="bloc-provider-bloc-builder" height="620" src="https://i.imgur.com/y290oWE.png" />
+</p>
+
+### BlocListener
+
+<p align="center">
+    <img alt="bloc-listener" height="620" src="https://i.imgur.com/BlZvYnW.png" />
+</p>
+
+### BlocConsumer 1
+
+<p align="center">
+    <img alt="bloc-consumer-1" height="620" src="https://i.imgur.com/CXeIvbo.png" />
+</p>
+
+### BlocConsumer 2
+
+<p align="center">
+    <img alt="bloc-consumer-2" height="620" src="https://i.imgur.com/nAPRpeP.png" />
+</p>
+
+### MultiBlocProvider - MutiBlocListener = MultiRepositoryProvider 1
+
+<p align="center">
+    <img alt="multi-1" height="620" src="https://i.imgur.com/1CQhjdW.png" />
+</p>
+
+### MultiBlocProvider - MutiBlocListener = MultiRepositoryProvider 2
+
+<p align="center">
+    <img alt="multi-2" height="620" src="https://i.imgur.com/TkOAhsI.png" />
+</p>
+
+### BloC Architecture
+
+<p align="center">
+    <img alt="bloc-arch" height="620" src="https://i.imgur.com/yTsHMBs.png" />
+</p>
+
+### BloC as Design Pattern/State Management Library/Architectural Pattern
+
+<p align="center">
+    <img alt="bloc-ways" height="620" src="https://i.imgur.com/XjioBvb.png" />
+</p>
 
 ### BloC Architecture Suggestion Workflow **START**
 
