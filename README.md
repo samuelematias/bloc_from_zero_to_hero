@@ -122,7 +122,13 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 ### Event-State-Bloc 2
 
 <p align="center">
-    <img alt="event-state-bloc-2" height="620" src="https://i.imgur.com/qtvlk6Q.png" />
+    <img alt="event-state-bloc-2" height="620" src="https://i.imgur.com/m8quxdi.png" />
+</p>
+
+### Event-State-Bloc 3
+
+<p align="center">
+    <img alt="event-state-bloc-3" height="620" src="https://i.imgur.com/Zwozkna.png" />
 </p>
 
 ### How BloC/Cubit event/states works 1
