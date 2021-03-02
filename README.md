@@ -42,6 +42,8 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 
 - [#11 - Maintaining Flutter Application State with Hydrated Bloc](https://www.youtube.com/watch?v=L5QinDY7nKE&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=12) / [lesson-11-maintaining-state](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-11-maintaining-state)
 
+- [#12 - Debugging Blocs & Cubits, Lazy Providing with BlocProvider, Naming Conventions](https://www.youtube.com/watch?v=C3l2JDI284k&list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o&index=13) / [lesson-12-debug-bloc](https://github.com/samuelematias/bloc_from_zero_to_hero/tree/lesson-12-debug-bloc)
+
 ## Tips and Explanations 👩🏾‍🏫👨🏾‍🏫
 
 ### BloC Architecture Suggestion 
@@ -327,6 +329,84 @@ This app was created follow this entire tutorial 👉🏾 [BLoC - from Zero to H
 <p align="center">
     <img alt="hydrated-bloc-4" height="620" src="https://i.imgur.com/BIIeVrW.png" />
     <img alt="hydrated-bloc-5" height="620" src="https://i.imgur.com/jfKg9xE.png" />
+</p>
+
+### BloC & Cubit: Debug methods
+
+<p align="center">
+    <img alt="bloc-cubit-debug-1" height="620" src="https://i.imgur.com/Kw2YMPK.png" />
+</p>
+
+### BloC & Cubit: Driven
+
+<p align="center">
+    <img alt="bloc-cubit-driven" height="620" src="https://i.imgur.com/NGm7mSs.png" />
+</p>
+
+### BloC & Cubit: Debug method - onChange
+
+<p align="center">
+    <img alt="bloc-cubit-debug-2" height="620" src="https://i.imgur.com/tRkAnbp.png" />
+</p>
+
+### BloC & Cubit: Debug methods - onEvent/onChange/onTransition 1
+
+<p align="center">
+    <img alt="bloc-cubit-debug-3" height="620" src="https://i.imgur.com/t0l5Rsd.png" />
+</p>
+
+### BloC & Cubit: Debug methods - onEvent/onChange/onTransition 2
+
+<p align="center">
+    <img alt="bloc-cubit-debug-4" height="620" src="https://i.imgur.com/kyEKdrw.png" />
+</p>
+
+### BloC & Cubit: Debug methods - BlocObserver
+
+<p align="center">
+    <img alt="bloc-cubit-debug-5" height="620" src="https://i.imgur.com/oBOXV13.png" />
+</p>
+
+### BloC & Cubit: FAQ 1
+
+<p align="center">
+    <img alt="bloc-cubit-faq-1" height="620" src="https://i.imgur.com/6ozCEkw.png" />
+</p>
+
+### BloC & Cubit: FAQ 2
+
+<p align="center">
+    <img alt="bloc-cubit-faq-2" height="620" src="https://i.imgur.com/x4QEf1o.png" />
+</p>
+
+### BloC & Cubit: FAQ 3
+
+<p align="center">
+    <img alt="bloc-cubit-faq-3" height="620" src="https://i.imgur.com/U0B4W6I.png" />
+</p>
+
+### BloC & Cubit: Naming Recommendations 0
+
+<p align="center">
+    <img alt="bloc-cubit-naming-rec-0" height="620" src="https://i.imgur.com/oV98nkY.png" />
+</p>
+
+### BloC & Cubit: Naming Recommendations 1
+
+<p align="center">
+    <img alt="bloc-cubit-naming-rec-1" height="620" src="https://i.imgur.com/cwT8sK6.png" />
+</p>
+
+### BloC & Cubit: Naming Recommendations 2
+
+<p align="center">
+    <img alt="bloc-cubit-naming-rec-2" height="620" src="https://i.imgur.com/PSoZs8L.png" />
+</p>
+
+### BloC & Cubit: Naming Recommendations 3
+
+<p align="center">
+    <img alt="bloc-cubit-naming-rec-3" height="620" src="https://i.imgur.com/WOJ0y3q.png" />
 </p>
 
 ## Tech Stack 👩🏾‍💻

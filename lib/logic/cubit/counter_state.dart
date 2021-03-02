@@ -30,4 +30,8 @@ class CounterState extends Equatable {
   }
 
   String toJson() => json.encode(toMap());
+
+  @override
+  String toString() => 'CounterState(counterValue: $counterValue, '
+      'wasIncremented: $wasIncremented)';
 }
